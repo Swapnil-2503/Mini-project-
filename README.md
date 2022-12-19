@@ -1,4 +1,4 @@
 # Mini-project-
 
 This project i did as mini project in curriculum coursework
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2u9-I6S2gyU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[!IMAGE ALT TEXT](https://img.youtube.com/vi/2u9-I6S2gyU/0.jpg)](https://www.youtube.com/watch?v=2u9-I6S2gyU "Mini project"
